@@ -115,10 +115,7 @@ Multiple model configurations were trained and evaluated:
 └── README.md             # This file
 ```
 
-<div align="center">
-  <img width="700" alt="CodaLab Scores" src="https://github.com/user-attachments/assets/codalab_score.png" />
-  <p><em>Our model performance on the CodaLab leaderboard</em></p>
-</div>
+
 
 ## Computing Environment
 
